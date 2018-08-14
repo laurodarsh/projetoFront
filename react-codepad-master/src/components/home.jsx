@@ -45,8 +45,7 @@ export class Home extends React.Component {
             
                 <div>
                     <h1 class="btn">Code Pad</h1>
-                   
-                    <New/>
+                
                     <ul>
                         {
                             this.state.codes &&
